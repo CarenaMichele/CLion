@@ -1,0 +1,13 @@
+# ninja log v5
+1	66	6828920939949105	CMakeFiles/dualitaPunt_Vet.dir/main.c.obj	d49b3b2c7d3bff84
+68	174	6828920940998067	dualitaPunt_Vet.exe	bdcc53dba000bbf
+3	596	6840141651748671	CMakeFiles/dualitaPunt_Vet.dir/main.c.obj	d49b3b2c7d3bff84
+597	927	6840141655044716	dualitaPunt_Vet.exe	bdcc53dba000bbf
+2	91	6840142610224821	CMakeFiles/dualitaPunt_Vet.dir/main.c.obj	d49b3b2c7d3bff84
+92	206	6840142611328996	dualitaPunt_Vet.exe	bdcc53dba000bbf
+3	98	6840143185154140	CMakeFiles/dualitaPunt_Vet.dir/main.c.obj	d49b3b2c7d3bff84
+99	200	6840143186156535	dualitaPunt_Vet.exe	bdcc53dba000bbf
+3	105	6840143997609228	CMakeFiles/dualitaPunt_Vet.dir/main.c.obj	d49b3b2c7d3bff84
+106	209	6840143998679722	dualitaPunt_Vet.exe	bdcc53dba000bbf
+2	91	6840144463420278	CMakeFiles/dualitaPunt_Vet.dir/main.c.obj	d49b3b2c7d3bff84
+91	200	6840144464518505	dualitaPunt_Vet.exe	bdcc53dba000bbf

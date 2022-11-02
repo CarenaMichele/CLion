@@ -1,0 +1,3 @@
+C:/Users/DELL/Desktop/C/dualitaPunt_Vet/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DELL/Desktop/C/dualitaPunt_Vet/cmake-build-debug/CMakeFiles/dualitaPunt_Vet.dir
+C:/Users/DELL/Desktop/C/dualitaPunt_Vet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
