@@ -1,0 +1,7 @@
+# ninja log v5
+1	91	6808964079614707	CMakeFiles/prova_datiScalari.dir/main.c.obj	9b8d2db20893893d
+0	107	6813316764388651	build.ninja	9fef5733bd9332c0
+91	166	6808964080360155	prova_datiScalari.exe	2407164e3152b6e
+2	53	6808763096691272	CMakeFiles/prova_datiScalari.dir/problemiNonNumerici.c.obj	78061e592587f8aa
+2	154	6863377485934098	CMakeFiles/prova_datiScalari.dir/main.c.obj	9b8d2db20893893d
+155	260	6863377486898774	prova_datiScalari.exe	2407164e3152b6e
