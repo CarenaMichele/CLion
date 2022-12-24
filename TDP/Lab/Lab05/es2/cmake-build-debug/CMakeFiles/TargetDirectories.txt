@@ -1,0 +1,3 @@
+C:/Users/DELL/Desktop/CLion/TDP/Lab/Lab05/es2/cmake-build-debug/CMakeFiles/es02.dir
+C:/Users/DELL/Desktop/CLion/TDP/Lab/Lab05/es2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DELL/Desktop/CLion/TDP/Lab/Lab05/es2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

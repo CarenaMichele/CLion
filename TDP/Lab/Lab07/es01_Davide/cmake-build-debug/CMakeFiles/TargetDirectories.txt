@@ -1,0 +1,3 @@
+C:/Users/DELL/Desktop/C/Lab07/es01_Davide/cmake-build-debug/CMakeFiles/es01_Davide.dir
+C:/Users/DELL/Desktop/C/Lab07/es01_Davide/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DELL/Desktop/C/Lab07/es01_Davide/cmake-build-debug/CMakeFiles/rebuild_cache.dir
